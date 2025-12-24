@@ -120,12 +120,12 @@ body{
 }
 
 .bord {
-    background: #66023C;
+    background: red;
     justify-content: center;
     margin: 0 auto;
 
     text-align: center; 
-    color: #40d0e0;
+    color: blue;
 
     border-radius: 15px;
 }
